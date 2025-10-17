@@ -1,0 +1,37 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    background-color: rgba(51, 255, 0, 0.482);
+    color: rgba(200, 0, 255, 0.753);
+    font-size: 60px;
+    text-align: center;
+    padding: 8px;
+}
+
+a,
+li {
+    font-size: 30px;
+}
+
+li {
+    margin: 10px auto;
+}
+
+img {
+    float: right;
+    margin: 15px;
+}
+
+.ingredients li {
+    font-size: 16px;
+}
+
+.steps li {
+    font-size: 16px;
+}
